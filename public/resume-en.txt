@@ -1,0 +1,70 @@
+Lu Han
+Contact Information
+Phone: +86 183-1711-0324 Email: luger123@sjtu.edu.cn Location: Shanghai, China
+Duration: September 2022 - June 2025  Shanghai Jiao Tong University (Master's Degree in Progress)
+Major: Pharmacy
+Duration: September 2017 - June 2022 Wenzhou Medical University (Bachelor's Degree)
+Major: Clinical Pharmacy Honors:
+• National Pharmacy Graduate Entrance Exam Scholarship (2022, Total score 406/500, Rank 1 at Shanghai chest hospital)
+• Frist-Class scholarship (2024, top student award)
+• Second-Class Scholarship (2020, 2022, 2023, top 20% student award)
+• Third-Class Scholarship (2019, top 40% student award)
+English Level: IELTS overall score: 7.0, with each band score above 6.0
+Skills
+• Highly skilled in managing and processing data using R, Python, and VB.
+• Highly skilled in conducting Population Pharmacokinetic (PPK) modeling.
+• Proficient in performing statistical analyze with SPSS.
+• Proficient in using UV-Vis and IR spectrophotometers, HPLC MS/MS for quantitative analysis.
+• Capable of Physiologically-Based Pharmacokinetic (PBPK) modeling.
+• Capable of conducting animal and cell experiments. Research Experience
+Shanghai Chest Hospital, Affiliated with Shanghai Jiao Tong University, Department of Pharmacy
+1. Building web-based Pyrazinamide PPK models repository to inform precison dosing using R shiny platform
+2. Building web-based dashboards to infom precision dosing of linezolid using R shiny platform
+3. Building web-based dashboards to infom precision dosing of tacrolimus lung transplant patients using R shiny platform
+4. Review of Quetiapine Population Pharmacokinetics characteristics
+5. External Validation of Tacrolimus PPK Models in Adult Lung Transplant Patients
+6. Establishment of roxadustat PPK Models in kidney transplant recipients
+7. Establishment of nirmatrelvir PPK Models in Chinese patients with COVID-19 infection
+8. Establishment of Tacrolimus PPK Models in Pediatric Lung Transplant Patients
+9. Establish a Semi-Physiological, Semi-Mechanistic PPK Model of Tacrolimus in Lung Transplant Patients (Graduation Project)
+The First Affiliated Hospital of Wenzhou Medical University, Department of Clinical Pharmacy
+1. Evaluation of Individualized Dosing Software for Vancomycin
+2. Study of the Relationship Between Blood Concentration of Polymyxin B and Nephrotoxicity
+Wenzhou Medical University, ZheNan Water Research Institution
+1. Preparation, Activity Analysis, and Application of Sulfur-Containing Nanomaterials 1
+      
+Publications
+As Co-First Author: 7 Articles, of which 1 Articles is Under Review
+1. Han L*, Cui YF*, Pan Y, et al. External evaluation of tacrolimus population pharmacokinetic models in adult lung transplant patients: How to enhance the predictive ability of the model? International Immunopharmacology. 2024;143(Pt 1):113225. (JCR:Q1, IF:4.8)
+2. Han L*, Gu JQ*, Mao JX, et al. Insights into the Population Pharmacokinetics and Pharmacodynamics of Quetiapine: A Systematic Review. Expert Rev Clin Pharmacol. 2024 Jan;17(1):57-72. (JCR:Q2, IF:3.6)
+3. Han L*, Xu FM*, Zhang XS*, et al. Trough polymyxin B plasma concentration is an independent risk factor for its nephrotoxicity. Br J Clin Pharmacol. 2022 Mar;88(3). (JCR:Q2, IF:3.1)
+4. Han L*, Xu FM*, Zhang XS, et al. Predictive performance of Smart Dose, PharmVan and JPKD on Vancomycin plasma concentration. Zhong Hua Wei Zhong Bin Ji Jiu Yi Xue. 2021, 33(3) : 263-268. (Chinese Core Journals)
+5. Shen ZW, Yang XY, Han L*, et al. Optimizing the dosing regimen of roxadustat in kidney transplant recipients with early post-transplant anemia. Journal of Pharmaceutical Sciences, 2024 7:S0022-3549(24)00409-X. (JCR:Q2, IF:3.7)
+6. Zhang, R., Fan, J., Han L*, et al. Population Pharmacokinetics and Dosing Regimen Analysis of Nirmatrelvir in Chinese Patients with COVID-19 Infection. Drug Design, Development and Therapy, 2024,18, 5517–5527. (JCR:Q1, IF:4.7)
+7. Zhang H, Han L*, Liu XQ, et al. Precision dosing of pyrazinamide: the establishment of a population pharmacokinetic
+model repository. Submitted to Antimicrob Agents Chemother. (JCR:Q1, IF:4.1)
+As Co-Author: 8 Articles, of which 1 Articles is revised but not published
+1. Dai ZY, Han L, Jing Y, et al. Once- versus Twice-Daily Tacrolimus Therapy: Does Improved Adherence Lead to Better
+Efficacy? ——A Pharmacokinetic Perspective. Submitted to J Clin Pharmacol. Revised. (JCR: Q3, IF: 2.4)
+2. Wang CY, Dai HR, Tan YP, Yang DH, Niu XM, Han L, et al. Development and Evaluation of a Quantitative Systems
+Pharmacology Model for Mechanism Interpretation and Efficacy Prediction of Atezolizumab in Combination with Carboplatin and Nab-Paclitaxel in Patients with Non-Small-Cell Lung Cancer. Pharmaceuticals. 2024 12;17(2):238. (JCR:Q2, IF:4.3)
+3. Tang Z, Guan J, Mao JH, Han L, et al. Quantitative risk-benefit profiles of oral contraceptives, insulin sensitizers and antiandrogens for women with polycystic ovary syndrome: A model-based meta-analysis. Eur J Pharm Sci. 2023 1;190:106577. (JCR:Q1, IF:4.3)
+4. Mao JH, Han L, Liu XQ, et al. Significant predictors for olanzapine pharmacokinetics: a systematic review of population pharmacokinetic studies. Expert Rev Clin Pharmacol. 2023;16(6):575-588. (JCR: Q2, IF:3.6)
+5. Wu F, Zhang XS, Dai Y, Zhou ZY, Zhang CH, Han L, et al. Dosage Strategy of Linezolid According to the Trough Concentration Target and Renal Function in Chinese Critically Ill Patients. Front Pharmacol. 2022 11;13:844567. (JCR:Q1, IF:4.4)
+6. Fang J, Zhang XS, Zhang CH, Zhou ZY, Han L, et al. Model Based Identification of Linezolid Exposure-toxicity Thresholds in Hospitalized Patients. Front Pharmacol. 2021 5;12:732503. (JCR:Q1, IF:4.4)
+7. Dai Y, Jiang S, Chen X, Han L, et al. Analysis of the risk factors of linezolid-related haematological toxicity in Chinese patients. J Clin Pharm Ther. 2021; 46(3):807-813. (JCR: Q3, IF: 2.1)
+8. Yu XB, Jiao Z, Zhang CH, Dai Y, Zhou ZY, Han L, et al. Population pharmacokinetic and optimization of polymyxin B dosing in adult patients with various renal functions. Br J Clin Pharmacol. 2021;87(4):1869-1877. (JCR: Q2, IF: 3.1)
+Conferences
+The 23rd Asian Conference on Clinical Pharmacy (ACCP 2024)
+Oral Presentation:
+• Towards Precision Dosing of Tacrolimus in Lung Transplant Patients: External Evaluation of Population Pharmacokinetic Models and Bayesian Forecasting
+The Chinese Medical Association Clinical Pharmacy Branch (2024)
+Poster Presentation:
+• Precision medicine use of tacrolimus in pediatric lung transplant patients: mechanism-based population pharmacokinetic modeling and Bayesian prediction
+The 2023 International Symposium in Quantitative Pharmacology (ISQP)
+Poster Presentations:
+• External validation of tacrolimus population pharmacokinetic models in adult lung transplant patients (Third Prize in Poster Presentation)
+• Tacrolimus Dosing Recommendations in Pediatrics with lung transplantation: A Population Pharmacokinetic Analysis
+• Insights into the Population Pharmacokinetics and Pharmacodynamics of Quetiapine: A Systematic Review TDM Committee of Chinese Pharmacological Society (2023)
+Poster Presentation:
+• External validation of tacrolimus population pharmacokinetic models in adult lung transplant patients (Excellent Poster Award)
